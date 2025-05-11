@@ -1,6 +1,6 @@
 # expoTeampjt
 
-📱 React Native 기반 Expo 프로젝트입니다.
+📱 React Native 기반 노인 대상으로 한 치매 예방 프로젝트입니다.
 
 ## 🚀 시작하기
 
