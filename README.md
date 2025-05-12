@@ -27,8 +27,7 @@ npm run web
 
 📁 프로젝트 구조
 pgsql
-복사
-편집
+
 .
 ├── App.js
 ├── index.js
@@ -48,19 +47,4 @@ styled-components
 
 
 
-📝 라이선스
-MIT
 
-yaml
-
-
----
-
-이 파일을 루트 폴더에 저장하려면 다음 명령어 사용:
-
-```bash
-echo "# expoTeampjt" > README.md
-# 또는 위 내용을 직접 복사해서 README.md에 붙여넣기
-git add README.md
-git commit -m "Add README"
-git push
